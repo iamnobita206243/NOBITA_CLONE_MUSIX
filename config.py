@@ -15,7 +15,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_NOBITA_DEFAULTERS_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","@II_NOBITA_DEFAULTERS_II")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "NOBITA_MUSIC_TG_BOT")
 # --------------------------------------------------------
