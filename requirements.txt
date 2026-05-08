@@ -30,3 +30,4 @@ youtube-search-python
 httpx[http2]==0.27.2
 bs4
 git+https://github.com/TeamZyro/daxxhub.git
+python-telegram-bot==20.6
