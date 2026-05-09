@@ -75,7 +75,7 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹❍ᴡηєʀ˼ ", url=f"https://t.me/@II_NOBITA_DEFAULTERS_II"
+                text="˹❍ᴡηєʀ˼ ", url=f"https://t.me/II_NOBITA_DEFAULTERS_II"
             ),
             InlineKeyboardButton(
                 text="˹sᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/+S0Q1-J_EQLA3YmU1"
