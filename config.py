@@ -139,7 +139,7 @@ confirmer = {}
 # ------------------------------------
 
 STREAMI_PICS = [
-"https://files.catbox.moe/4q7c4w.jpg",
+    "https://files.catbox.moe/4q7c4w.jpg",
     "https://files.catbox.moe/90z6sq.jpg",
     "https://files.catbox.moe/rdfi4z.jpg",
     "https://files.catbox.moe/6f9rgp.jpg",
@@ -157,25 +157,26 @@ STREAMI_PICS = [
     "https://files.catbox.moe/f2s4ws.jpg",
     "https://files.catbox.moe/26nzoq.jpg",
     "https://files.catbox.moe/fu6jk3.jpg",
+    "https://files.catbox.moe/ha01tm.jpg",
 ]
 
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/ha01tm.jpg"
 )
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/q8bej6.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/q8bej6.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/q8bej6.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2y5o3g.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/ha01tm.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/ha01tm.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/ha01tm.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/ha01tm.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ha01tm.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/ha01tm.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/ha01tm.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/ha01tm.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/ha01tm.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/ha01tm.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/ha01tm.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/ha01tm.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
